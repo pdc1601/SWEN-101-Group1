@@ -13,4 +13,4 @@ Help staff our local bake sale. All profits go towards raising Autism Awareness!
 Join us in going to local forests and parks, and picking up the garbage and trash that is plaguing our environment! We can change the world!
 
 
-![Image for Environmental Cleanup Day](https://lh6.googleusercontent.com/d9rW_P-K1CyfS_XcozsVZeMFWmnAqnEBbgyp1jlxNjWkJ18d-LQon6e6b4BNmHEaaJksEQRuIkljBbxPbdTtQrDhMC1ICuiBqXsiopCj)
+![Image for Environmental Cleanup Day](https://dingo.care2.com/pictures/petition_images/petition/670/701430-1525768131-wide.jpg)
