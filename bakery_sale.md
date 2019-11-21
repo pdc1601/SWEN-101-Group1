@@ -1,1 +1,2 @@
-##               Profile   Map   Calender    Messages    Events
+| Profile | Map | Calender | Messages| Events |
+| --- | --- | --- | ---- | ---- |
