@@ -1,5 +1,8 @@
 # Events
 
+| Profile | Map | Calender | Messages| [Home](https://github.com/pdc1601/SWEN-101-Group1/blob/master/README.md) |
+| --- | --- | --- | ---- | ---- |
+-----------------------------------------------------------------------------------------
 Below is a list of available events!
 
 ### Bake Sale for Autism Awareness
