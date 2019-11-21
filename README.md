@@ -2,7 +2,7 @@
 
 Below is a list of available events!
 
-### Bakery Sale for Autism Awareness
+### Bake Sale for Autism Awareness
 
 Help staff our local bake sale. All profits go towards raising Autism Awareness!
 [click here to join the bake sale!](https://github.com/pdc1601/SWEN-101-Group1/blob/master/bakery_sale.md#profile---map---calender----messages----events)
