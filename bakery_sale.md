@@ -1,6 +1,6 @@
 # Bake Sale
 
-| Profile | Map | Calender | Messages| [Home](https://github.com/pdc1601/SWEN-101-Group1/blob/master/README.md) |
+| Profile | Map | Calender | Messages| [Home](https://pdc1601.github.io/SWEN-101-Group1/) |
 | --- | --- | --- | ---- | ---- |
 
 ------------------------------------------------
