@@ -1,9 +1,6 @@
 # Events
 
-| Profile | Map | Calender | Messages| [Home](https://github.com/pdc1601/SWEN-101-Group1/blob/master/README.md) |
-
-
-| Search | *type here to search* |
+|[Home](https://pdc1601.github.io/SWEN-101-Group1/)| Profile | Map | Calender | Messages| Search | *type here to search* |
 
 
 Below is a list of available events!
