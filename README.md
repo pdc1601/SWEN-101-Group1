@@ -1,18 +1,17 @@
 # Events
 
 | Profile | Map | Calender | Messages| [Home](https://github.com/pdc1601/SWEN-101-Group1/blob/master/README.md) |
-| --- | --- | --- | ---- | ---- |
------------------------------------------------------------------------------------------
+
 
 | Search | *type here to search* |
-| --- | --- |
+
 
 Below is a list of available events!
 
 ### Bake Sale for Autism Awareness
 
 Help staff our local bake sale. All profits go towards raising Autism Awareness!
-[click here to join the bake sale!](https://github.com/pdc1601/SWEN-101-Group1/blob/master/bakery_sale.md#profile---map---calender----messages----events)
+[click here to join the bake sale!](https://pdc1601.github.io/SWEN-101-Group1/bakery_sale)
 
 ![Bake Sale Image](https://www.classicbakery.net/wp-content/uploads/2014/04/DRP_9603-1200x600.jpg)
 
