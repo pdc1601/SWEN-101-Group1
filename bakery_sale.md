@@ -8,5 +8,6 @@
 
 Help staff our local bake sale. All profits go towards raising Autism Awareness!
 
+| --- | --- | --- | ---- | ---- |
 | **Sign Up** |
 | --- |
