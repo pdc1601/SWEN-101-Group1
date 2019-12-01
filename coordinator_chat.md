@@ -6,5 +6,4 @@
 
  
  **You**
- 
- Yes, please inform me of any opportunities involving cleaning the oceans.
+ * Yes, please inform me of any opportunities involving cleaning the oceans.
