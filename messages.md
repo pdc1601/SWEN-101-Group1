@@ -7,4 +7,4 @@
   
   
 ## Fellow Volunteer
-  [New Message](https://github.com/pdc1601/SWEN-101-Group1/blob/master/volunteer_chat.md)
+  [New Message](https://pdc1601.github.io/SWEN-101-Group1/volunteer_chat)
