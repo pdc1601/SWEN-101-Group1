@@ -3,7 +3,7 @@
 # Messages
 
 ## Event Coordinator
-  [New Message](https://github.com/pdc1601/SWEN-101-Group1/blob/master/coordinator_chat.md)
+  [New Message](https://pdc1601.github.io/SWEN-101-Group1/coordinator_chat)
   
   
 ## Fellow Volunteer
