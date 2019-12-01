@@ -7,4 +7,4 @@
   
   
 ## Fellow Volunteer
-  I saw some events you might like...
+  [New Message](https://github.com/pdc1601/SWEN-101-Group1/blob/master/volunteer_chat.md)
