@@ -7,6 +7,6 @@ happy_penguin_hours
 
 Events Participated In
 > Children's Summer Camp
->> Charity Baking Sale
->>> Trash Pickup
+Charity Baking Sale
+Trash Pickup
 
