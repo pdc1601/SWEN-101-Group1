@@ -3,7 +3,7 @@
 # Messages
 
 ## Event Coordinator
-  We are interested in you...
+  [New Message] (coordinator_chat.md)
   
   
 ## Fellow Volunteer
