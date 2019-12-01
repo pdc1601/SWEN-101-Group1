@@ -1,10 +1,10 @@
 [Back](https://pdc1601.github.io/SWEN-101-Group1/messages) 
 
 
-## Event Coordinator
+**Event Coordinator**
 * Hello there. Interested in volunteering?
 
-<p align= "right">
-  **You**
-* Yes, please inform me of any opportunities involving cleaning the oceans>
-</p>
+ 
+ **You**
+ 
+ Yes, please inform me of any opportunities involving cleaning the oceans.
