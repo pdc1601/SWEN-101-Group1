@@ -9,8 +9,8 @@ happy_penguin_hours
 
 ## Previous Experience
 | Events Participated in|
-| ------------- |
+| ---------------------:|
 | Children's Summer Camp|
-| Charity Baking Sale |
-| Trash Pickup |
+| Charity Baking Sale   |
+| Trash Pickup          |
 
